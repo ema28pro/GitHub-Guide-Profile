@@ -2,7 +2,7 @@
 <h1>Introducción a GitHub y pequeña Guía para el perfil de GitHub</h1>
 
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ema28pro/GitHub-Guide-Profile" class="inline-block mx-1" style="margin: 0px 2px;">
-  <img alt="Github Stars" src="https://img.shields.io/github/stars/ema28pro/GitHub-Guide-Profile?style=social" class="inline-block mx-1" style="margin: 0px 2px;">
+  <img alt="Github Stars" src="https://img.shields.io/github/stars/ema28pro/GitHub-Guide-Profile" class="inline-block mx-1" style="margin: 0px 2px;">
 
 ¡Bienvenido a esta guía completa de GitHub! Esta documentación te ayudará a dar tus primeros pasos en el mundo del desarrollo colaborativo y el control de versiones.
 
