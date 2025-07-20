@@ -67,7 +67,7 @@
   <table border=2>
     <tr>
     <td align="center">
-      <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git"><img src="./img/acerca_de_github_y_git.png"> </a>
+      <a href="https://docs.github.com/es/get-started/start-your-journey/about-github-and-git"><img src="./img/acerca_de_github_y_git.png"> </a>
     </td>
     <td align="center">
       <a href="https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories"><img src="./img/como_crear_tu_primer_repositorio.png"/> </a>
@@ -108,6 +108,8 @@
     </td>
     </tr>
   </table>
+
+  ## [Hello World](https://docs.github.com/es/get-started/start-your-journey/hello-world)
 
 </details>
 
@@ -1162,6 +1164,10 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 - **Escape de caracteres**: Usa `\` antes de caracteres especiales para mostrarlos literalmente
 - **HTML**: Markdown soporta HTML, así que puedes usar etiquetas HTML cuando necesites más control
 - **Comentarios**: `<!-- Este es un comentario que no se mostrará -->`
+- **Compatibilidad**: Los lectores de Markdown varían en sus características. GitHub Flavored Markdown soporta muchas funciones avanzadas (como callouts, Mermaid, tablas HTML), pero otros editores como VS Code, Obsidian o lectores básicos pueden no mostrar todo correctamente
+
+> [!IMPORTANT]
+> **Compatibilidad entre plataformas**: No todos los lectores de Markdown interpretan las funciones de la misma manera. Lo que funciona perfectamente en GitHub puede no funcionar en otros editores. Siempre prueba tu contenido en la plataforma de destino.
 
 ### Recursos útiles
 
@@ -1172,7 +1178,6 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
 
 </details>
-
 
 <details>
   <summary><h1>¿Cómo mejorar mi perfil de GitHub?</h1></summary>
@@ -1197,6 +1202,115 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       C --> D[¡Aparece en tu perfil!]
   ```
   
+  ## ⚙️ Editar Perfil
+
+  Luego de ir a nuestro perfil se nos dará la opción de editar los siguientes campos:
+  
+  <img width="44%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
+  
+  - **Name**: Tu nombre completo o nombre profesional
+  - **Bio**: Una descripción breve y atractiva sobre ti, quien eres y a que te dedicas (máximo 160 caracteres)
+  - **Pronouns**: Tus pronombres preferidos (él/ella/elle) # Opcional
+  - **Company**: La empresa donde trabajas actualmente # Opcional
+  - **Location**: Tu ubicación geográfica (ciudad, país) # Opcional
+  - **Display current local time**: Mostrar tu zona horaria actual # Opcional
+  - **Email**: Tu correo electrónico profesional (público o privado)
+  - **Website**: Tu sitio web personal, portfolio o blog
+  - **Social Accounts**: Hasta 4 redes sociales (Twitter, LinkedIn, etc.)
+  
+  ---
+
+  ### 💡 Consejos para optimizar tu perfil:
+  
+  > [!TIP]
+  > **Bio efectiva**: Menciona tu especialidad, años de experiencia y tecnologías principales
+  
+  > [!IMPORTANT]
+  > **Foto profesional**: Usa una imagen clara, de buena calidad y que te represente profesionalmente
+  
+  > [!NOTE]
+  > **Consistencia**: Mantén la misma información en todas tus redes profesionales
+
+ ## 📁 Crear el repositorio de tu perfil
+
+  ### Paso 1: Crear el repositorio
+  
+  1. Primero vamos a la esquina superior derecha y buscamos el **+**, le damos **"Create new"** → **"New repository"**.
+  
+  ![Create Repository](./img/create_a_new_repository.png)
+  
+  2. Lo siguiente es poner como nombre de repositorio **tu username de GitHub** (exactamente igual), designarlo como **público** y añadir el **README** así como muestra la imagen. Luego darle **"Create Repository"**.
+
+  ### 📝 Cómo editar el README
+
+  Para trabajar con repositorios tenemos dos formas:
+  
+  - **Opción 1 (Local)**: Instalar Git + un editor de código y clonar el repositorio para trabajarlo localmente
+  - **Opción 2 (Web)**: Usar el editor de GitHub directamente (más fácil para principiantes)
+  
+  Usaremos la **Opción 2** por facilidad:
+
+  ![Edit Readme](./img/edit_readme.png)
+
+  Nos aparece la siguiente ventana al lado de nuestro repositorio y le daremos en **"Edit README"** o en el **✏️**.
+
+  ![Edit](./img/edit.png)
+
+  Se nos abrirá la siguiente ventana de edición del **README.md**:
+  
+  ### 💾 Cómo guardar los cambios (Commit)
+  
+  > [!IMPORTANT]
+  > **¿Qué es un Commit?**: Un commit es como "guardar" los cambios en tu repositorio. Es una foto instantánea de tu código en ese momento.
+  
+  **Para guardar tus cambios:**
+  
+  1. **Escribe tu contenido** en el editor de README
+  2. **Ve a la esquina superior derecha** de la página donde dice "Commit changes"
+
+  ![Commit Changes](./img/commit_changes.png)
+
+  3. **Escribe un mensaje descriptivo** sobre lo que cambiaste
+     - ✅ Ejemplo bueno: "Agregué sección de tecnologías y contacto"
+     - ❌ Ejemplo malo: "cambios" o "update"
+  4. **Opcionalmente** agrega una descripción más detallada
+  5. **Selecciona** "Commit directly to the main branch"
+  6. **Haz clic** en "Commit changes"
+
+  ### 📁 Cómo subir archivos al repositorio
+  
+  **Existen dos formas de agregar imágenes u otros archivos:**
+  
+  #### Método 1: Desde el editor (donde estás ahora)
+  
+  ![Barra Lateral](./img/barra_lateral.png)
+  
+  1. **En la barra lateral izquierda** del editor, busca el ícono **+** 
+  2. **Haz clic** en el **+** para agregar archivos
+  3. **Archivo nuevo creado** arriba podras ponerle nombre y la extension correspondiente para escribir en el nuevo archivo.
+  
+  #### Método 2: Directamente en el repositorio
+  
+  ![Add File Repository](./img/add_file.png)
+  
+  1. **Ve a tu repositorio** en GitHub (sal del editor)
+  2. **Haz clic** en "Add file" → **"Upload files"** (no "Create new file")
+  3. **Arrastra y suelta** tus archivos o haz clic en "choose your files"
+  4. **Organiza tus archivos** (recomendado crear carpeta `img/` para imágenes)
+  5. **Escribe un mensaje** de commit descriptivo
+  6. **Haz clic** en "Commit changes"
+  
+  > [!TIP]
+  > **Carpetas organizadas**: Crea carpetas como `img/`, `docs/`, `assets/` para mantener tu repositorio ordenado
+  
+  > [!NOTE]
+  > **Formatos recomendados**: Para imágenes usa PNG, JPG o SVG. GitHub soporta muchos formatos de archivo.
+
+  ---
+
+  > [!TIP]
+  > **Aprende de otros perfiles**: Visita perfiles de desarrolladores que admires. Puedes ver su README y archivos haciendo clic en el repositorio con su username. ¡Es la mejor forma de conseguir ideas creativas y aprender nuevas técnicas!
+
   ## 🎨 Elementos que debe incluir tu README de perfil
   
   ### 1. Saludo y presentación
@@ -1290,19 +1404,47 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   ![Trofeos](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=darkhub)
   ```
   
-  ## 🌟 Herramientas útiles para crear tu perfil
+  ## 🌟 Herramientas y recursos útiles para crear tu perfil
   
-  ### Generadores de badges/insignias:
+  ### 🏷️ Generadores de badges e insignias:
   - [Shields.io](https://shields.io/) - Generador de insignias personalizadas
-  - [Simple Icons](https://simpleicons.org/) - Iconos de marcas y tecnologías
+  - [Skill Icons](https://github.com/tandpfun/skill-icons#readme) - Iconos de habilidades y tecnologías animados
+  - [Colored Badges](https://github.com/MikeCodesDotNET/ColoredBadges) - Badges coloridos para tecnologías
+  - [Awesome Badges](https://github.com/Envoy-VC/awesome-badges) - Colección de badges increíbles
+  - [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons) - Iconos de tecnologías para perfiles
+  - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Badges para tecnologías en Markdown
+  - [Simple Icons](https://simpleicons.org/) - Iconos simples de marcas y tecnologías
+  - [Tech Stack Generator](https://techstack-generator.vercel.app/) - Generador visual de stack tecnológico
+  - [Skill Icons Dev](https://skillicons.dev/) - API para generar iconos de habilidades
+  - [Badges4 README Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Badges para perfiles README
+  - [Badges4 README Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic) - Badges dinámicos
   
-  ### Generadores de estadísticas:
+  ### 📊 Generadores de estadísticas y métricas:
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Estadísticas personalizadas
   - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - Trofeos y logros
+  - [Metrics](https://github.com/lowlighter/metrics) - Generador avanzado de métricas para GitHub
+  - [GitHub User Stats](https://ghuser.io/) - Estadísticas detalladas de usuarios
+  - [Profile README Development Stats](https://github.com/marketplace/actions/profile-readme-development-stats#update-your-readme) - Acción para estadísticas automáticas
+  - [AOC Badges Action](https://github.com/J0B10/aoc-badges-action) - Badges para Advent of Code
+  - [Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/) - Generador de estadísticas personalizadas
   
-  ### Inspiración y ejemplos:
-  - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+  ### 🔧 Generadores de README:
+  - [Profile README Generator (ES)](https://profile-readme-generator.com/es) - Generador en español
+  - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generador completo de README
+  
+  ### 🎨 Emojis y elementos visuales:
+  - [Emojis para GitHub](https://github.com/ikatyang/emoji-cheat-sheet) - Lista completa de emojis compatibles
+  - [Lista de emojis completa](https://gist.github.com/rxaviers/7360908) - Gist con todos los emojis disponibles
+  - [SVG Banners](https://github.com/Akshay090/svg-banners) - Banners SVG personalizados para tu perfil
+  
+  ### 💡 Inspiración y ejemplos:
+  - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - Colección de perfiles increíbles
+  
+  
+  ### 📚 Documentación y tutoriales:
+  - [Guía oficial de GitHub sobre perfiles](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile) - La documentación oficial de GitHub
+  - [Markdown para GitHub](https://github.github.com/gfm/) - Guía completa del formato Markdown para GitHub
+  - [MiduDev Como crear tu perfil de GitHub con Readme](https://midu.dev/como-crear-tu-perfil-de-github-con-readme) - Tutorial completo en español
   
   ## 💡 Consejos adicionales
   
@@ -1328,14 +1470,25 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       G --> H[¡Perfil exitoso! 🎉]
   ```
   
-  ### Recursos adicionales:
+  ## 🎯 Resumen final
   
-  - [Guía oficial de GitHub sobre perfiles](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile)
-  - [Markdown para GitHub](https://github.github.com/gfm/)
-  - [Emojis para GitHub](https://github.com/ikatyang/emoji-cheat-sheet)
-  - [MiduDev Como crear tu perfil de GitHub con Readme](https://midu.dev/como-crear-tu-perfil-de-github-con-readme)
+  ¡Felicidades! Ahora tienes todos los conocimientos necesarios para crear un perfil de GitHub profesional y atractivo. Recuerda:
+  
+  ### ✅ Pasos completados:
+  1. ⚙️ **Perfil básico**: Foto, bio y información personal
+  2. 📁 **Repositorio especial**: Creado con tu username
+  3. 📝 **README personalizado**: Con contenido atractivo y profesional
+  4. 💾 **Commits**: Guardando cambios correctamente
+  5. 📁 **Archivos organizados**: Imágenes y recursos bien estructurados
+  6. 🛠️ **Herramientas**: Conoces recursos para mejorar tu perfil
+  
+  ### 🚀 ¡Tu perfil está listo para impresionar!
+  
+  > [!SUCCESS]
+  > **¡Enhorabuena!** Tienes todo lo necesario para destacar en la comunidad de desarrolladores de GitHub
 
 </details>
+
 
 # 🌟 ¡Apoya este proyecto/articulo!
 
