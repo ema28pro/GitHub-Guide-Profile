@@ -1207,7 +1207,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
   Luego de ir a nuestro perfil se nos dará la opción de editar los siguientes campos:
   
-  <img width="24%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
+  <img width="43%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
   
   - **Name**: Tu nombre completo o nombre profesional
   - **Bio**: Una descripción breve y atractiva sobre ti, quien eres y a que te dedicas (máximo 160 caracteres)
