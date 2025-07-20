@@ -13,7 +13,7 @@
 - **🌟 Introducción a GitHub**: Qué es, para qué sirve y por qué es esencial para desarrolladores
 - **🚀 Creación de cuenta**: Proceso paso a paso para crear tu cuenta y empezar
 - **⚡ Fundamentos de Git**: El sistema de control de versiones que potencia GitHub
-- **📝 Tutorial completo de Markdown**: Desde lo básico hasta técnicas avanzadas con HTML y Mermaid
+- **📝 Tutorial completo de Markdown**: Desde lo básico hasta integraciónes con HTML y Mermaid
 - **💼 Optimización de perfil**: Cómo crear un perfil profesional que destaque y atraiga oportunidades
 - **📚 Recursos adicionales**: Videos, tutoriales, cursos y herramientas para profundizar en Git y GitHub
 
