@@ -1440,7 +1440,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   - [Emojis para GitHub](https://github.com/ikatyang/emoji-cheat-sheet) - Lista completa de emojis compatibles
   - [Lista de emojis completa](https://gist.github.com/rxaviers/7360908) - Gist con todos los emojis disponibles
   - [SVG Banners](https://github.com/Akshay090/svg-banners) - Banners SVG personalizados para tu perfil
-  - [Typing SVG](https://readme-typing-svg.demolab.com/demo/) -Gif de texto, [repo](https://github.com/DenverCoder1/readme-typing-svg).
+  - [Typing SVG](https://readme-typing-svg.demolab.com/demo/) - Gif de texto, [repo](https://github.com/DenverCoder1/readme-typing-svg).
   
   ### 💡 Inspiración y ejemplos:
   - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - Colección de perfiles increíbles
