@@ -209,12 +209,12 @@
   </td>
   <td>
 
-  # Esto es un titulo h1
-  ## Esto es un titulo h2
-  ### Esto es un titulo h3
-  #### Esto es un titulo h4
-  ##### Esto es un titulo h5
-  ###### Esto es un titulo h6
+  # Esto es un titulo
+  ## Esto es un titulo
+  ### Esto es un titulo
+  #### Esto es un titulo
+  ##### Esto es un titulo
+  ###### Esto es un titulo
 
   </td>
   </tr>
