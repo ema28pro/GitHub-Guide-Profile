@@ -1207,14 +1207,14 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
   Luego de ir a nuestro perfil se nos dará la opción de editar los siguientes campos:
   
-  <img width="43%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
+  <img width="40%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
   
   - **Name**: Tu nombre completo o nombre profesional
   - **Bio**: Una descripción breve y atractiva sobre ti, quien eres y a que te dedicas (máximo 160 caracteres)
-  - **Pronouns**: Tus pronombres preferidos (él/ella/elle) # Opcional
-  - **Company**: La empresa donde trabajas actualmente # Opcional
-  - **Location**: Tu ubicación geográfica (ciudad, país) # Opcional
-  - **Display current local time**: Mostrar tu zona horaria actual # Opcional
+  - **Pronouns**: Tus pronombres preferidos (él/ella/elle)
+  - **Company**: La empresa donde trabajas actualmente
+  - **Location**: Tu ubicación geográfica (ciudad, país)
+  - **Display current local time**: Mostrar tu zona horaria actual
   - **Email**: Tu correo electrónico profesional (público o privado)
   - **Website**: Tu sitio web personal, portfolio o blog
   - **Social Accounts**: Hasta 4 redes sociales (Twitter, LinkedIn, etc.)
@@ -1489,6 +1489,204 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   > **¡Enhorabuena!** Tienes todo lo necesario para destacar en la comunidad de desarrolladores de GitHub
 
 </details>
+
+
+
+## 📚 Recursos adicionales para aprender Git y GitHub
+
+### 🎥 Videos recomendados
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=RGOj5yH7evk">
+        <img src="https://img.youtube.com/vi/RGOj5yH7evk/0.jpg">
+      </a>
+      <p><strong>freeCodeCamp.org</strong><br>Git and GitHub for Beginners - Crash Course</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=mBYSUUnMt9M">
+        <img src="https://img.youtube.com/vi/mBYSUUnMt9M/0.jpg">
+      </a>
+      <p><strong>freeCodeCamp Español</strong><br>Aprende Git y GitHub - Curso desde Cero</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=9ZJ-K-zk_Go">
+        <img src="https://img.youtube.com/vi/9ZJ-K-zk_Go/0.jpg">
+      </a>
+      <p><strong>Soy Dalto</strong><br>CURSO de GIT y GitHub (desde cero)</p>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=3GymExBkKjE">
+        <img src="https://img.youtube.com/vi/3GymExBkKjE/0.jpg">
+      </a>
+      <p><strong>MoureDev by Brais Moure</strong><br>Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=niPExbK8lSw">
+        <img src="https://img.youtube.com/vi/niPExbK8lSw/0.jpg">
+      </a>
+      <p><strong>midulive</strong><br>Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=1eEnboVooiY">
+        <img src="https://img.youtube.com/vi/1eEnboVooiY/0.jpg">
+      </a>
+      <p><strong>midudev</strong><br>CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺<a href="https://midu.dev/como-crear-tu-perfil-de-github-con-readme">Blog</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW&si=yK6ctUuZXoNBtWHD">
+        <img src="https://img.youtube.com/vi/mCVQgSyjCkI/0.jpg">
+      </a>
+      <p><strong>TodoCode</strong><br>🤓 Curso GIT y GITHUB - Tutorial desde CERO 🚀 2025</p>
+    </td>
+    <td  align="center">
+      <a href="https://youtube.com/playlist?list=PLJ7sTTLrIA6klMtrvcpGXYkBFoUP3rqwo&si=3HmPJaEfYZu30lyo">
+        <img src="https://img.youtube.com/vi/T3roQrB_Jko/0.jpg">
+      </a>
+      <p><strong>de Nikorasu Def</strong><br>CURSO de GIT y GitHub (desde cero)</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=hwP7WQkmECE">
+        <img src="https://img.youtube.com/vi/hwP7WQkmECE/0.jpg"1ibmWyt8hfw>
+      </a>
+      <p><strong>Fireship</strong><br>Git explicado en 100 segundos</p>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">
+        <img src="https://img.youtube.com/vi/SWYqp7iY_Tc/0.jpg">
+      </a>
+      <p><strong>Traversy Media</strong><br>Git & GitHub Crash Course For Beginners</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=vA5TTz6BXhY">
+        <img src="https://img.youtube.com/vi/vA5TTz6BXhY/0.jpg">
+      </a>
+      <p><strong>Traversy Media</strong><br>Git & GitHub Crash Course 2025</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=vlCXdvcgiE0">
+        <img src="https://img.youtube.com/vi/vlCXdvcgiE0/0.jpg">
+      </a>
+      <p><strong>deivchoi</strong><br>Aprende Git en 15 Minutos</p>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=l2yrJtwoC_E">
+        <img src="https://img.youtube.com/vi/l2yrJtwoC_E/0.jpg">
+      </a>
+      <p><strong>Cameron McKenzie</strong><br>Git and GitHub Crash Course For Beginners | Complete Tutorial [2024]</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=hrTQipWp6co">
+        <img src="https://img.youtube.com/vi/hrTQipWp6co/0.jpg">
+      </a>
+      <p><strong>SuperSimpleDev</strong><br>Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=1ibmWyt8hfw">
+        <img src="https://img.youtube.com/vi/1ibmWyt8hfw/0.jpg">
+      </a>
+      <p><strong>SuperSimpleDev</strong><br>Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)</p>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=8JJ101D3knE">
+        <img src="https://img.youtube.com/vi/8JJ101D3knE/0.jpg">
+      </a>
+      <p><strong>Programming with Mosh</strong><br>Git Tutorial for Beginners: Learn Git in 1 Hour</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=tRZGeaHPoaw">
+        <img src="https://img.youtube.com/vi/tRZGeaHPoaw/0.jpg">
+      </a>
+      <p><strong>Kevin StratvertGit explicado en 100 segundos</strong><br>Git and GitHub Tutorial for Beginners</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=mJ-qvsxPHpY">
+        <img src="https://img.youtube.com/vi/mJ-qvsxPHpY/0.jpg">
+      </a>
+      <p><strong>Nick White</strong><br>Git Tutorial For Dummies</p>
+    </td>
+  </tr>
+
+</table>
+
+### 🌐 Plataformas interactivas de aprendizaje
+
+<div align="center">
+
+| 🎯 **Plataforma** | 📝 **Descripción** | 🔗 **Enlace** |
+|:---|:---|:---:|
+| **GitHub Skills** | Cursos oficiales interactivos de GitHub | [🚀 Practicar](https://skills.github.com/) |
+| **Learn Git Branching** | Aprende Git de forma visual e interactiva | [🌿 Jugar](https://learngitbranching.js.org/?locale=es_AR) |
+| **Explain Git with D3** | Visualizador interactivo de comandos Git | [👁️ Explorar](https://onlywei.github.io/explain-git-with-d3/) |
+| **Git Immersion** | Tutorial paso a paso para dominar Git | [📚 Aprender](https://gitimmersion.com/) |
+
+</div>
+
+### 📚 Guías y documentación oficial
+
+<div align="center">
+
+| 📖 **Recurso** | 🌐 **Descripción** | 🔗 **Enlace** |
+|:---|:---|:---:|
+| **Pro Git Book** | Libro oficial de Git (gratuito) | [📕 Leer](https://git-scm.com/book/en/v2) |
+| **DataCamp Guide** | Guía completa para aprender Git | [📊 Estudiar](https://www.datacamp.com/es/blog/how-to-learn-git) |
+| **FreeCodeCamp Guide** | Guía para principiantes y desarrolladores | [💻 Consultar](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/) |
+
+</div>
+
+### 🎓 Cursos en LinkedIn Learning
+
+<div align="center">
+
+| 🎯 **Curso** | ⏱️ **Nivel** | 🔗 **Enlace** |
+|:---|:---|:---:|
+| **Git from Scratch** | Principiante | [📘 Tomar curso](https://www.linkedin.com/learning/git-from-scratch) |
+| **Git Essential Training** | Básico-Intermedio | [📗 Tomar curso](https://www.linkedin.com/learning/git-essential-training-19417064) |
+| **Learning Git and GitHub** | Principiante | [📙 Tomar curso](https://www.linkedin.com/learning/learning-git-and-github-23011330) |
+| **Git Branches, Merges, and Remotes** | Intermedio | [📕 Tomar curso](https://www.linkedin.com/learning/git-branches-merges-and-remotes) |
+| **Git Intermediate Techniques** | Avanzado | [📔 Tomar curso](https://www.linkedin.com/learning/git-intermediate-techniques-16077011) |
+
+</div>
+
+
+### 📖 Artículos y guías escritas
+
+<div align="center">
+
+| 📝 **Recurso** | 🌐 **Descripción** | 🔗 **Enlace** |
+|:---|:---|:---:|
+| **FreeCodeCamp** | Guía completa para principiantes de Git y GitHub en español | [📖 Leer guía](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/) |
+| **Ykigai** | Tutorial paso a paso de Git y GitHub para principiantes | [📖 Leer tutorial](https://ykigai.com/git-github-guia-principiantes/) |
+
+</div>
+
+### 🛠️ Repositorio de práctica recomendado
+
+<div align="center">
+  
+  <h4>📦 Hello Git - Curso práctico de MoureDev</h4>
+  
+  <a href="https://github.com/mouredev/hello-git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mouredev&repo=hello-git&theme=radical&show_owner=true" alt="Hello Git Repository" />
+  </a>
+  
+  <p><strong>Repositorio perfecto para practicar</strong><br>
+  Ejercicios prácticos y ejemplos reales para dominar Git desde cero</p>
+  
+</div>
+
+
 
 
 # 🌟 ¡Apoya este proyecto/articulo!
