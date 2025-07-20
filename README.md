@@ -9,6 +9,7 @@
 - **⚡ Fundamentos de Git**: El sistema de control de versiones que potencia GitHub
 - **📝 Tutorial completo de Markdown**: Desde lo básico hasta técnicas avanzadas con HTML y Mermaid
 - **💼 Optimización de perfil**: Cómo crear un perfil profesional que destaque y atraiga oportunidades
+- **📚 Recursos adicionales**: Videos, tutoriales, cursos y herramientas para profundizar en Git y GitHub
 
 > [!TIP]
 > Esta guía está diseñada tanto para principiantes como para usuarios que quieran perfeccionar sus conocimientos de Markdown y GitHub.
@@ -1492,7 +1493,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
 
 
-## 📚 Recursos adicionales para aprender Git y GitHub
+## 📚 Recursos para aprender Git y GitHub
 
 ### 🎥 Videos recomendados
 
@@ -1687,9 +1688,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 </div>
 
 
-
-
-# 🌟 ¡Apoya este proyecto/articulo!
+## 🌟 ¡Apoya este proyecto/articulo!
 
 Si esta guía te ha sido útil, puedes apoyarme de las siguientes maneras:
 
