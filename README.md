@@ -115,10 +115,11 @@
 
 <details>
   <summary><h2>Git</h2></summary>
+
+  ### Qué es Git?
   
   <div align="right"><sub >From <a href="https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/" > FreeCodeCamp</a>.</sub></div>
 
-  ### Qué es Git?
   Git es un software de control de versiones gratis y de código abierto. Fue creado por Linus Torvalds en 2005. Esta herramienta es un sistema de control de versiones que fue inicialmente desarrollado para trabajar con varios desarrolladores en el núcleo de Linux.
 
   Esto significa básicamente que Git es un rastreador de contenido. Así que Git puede ser utilizado para almacenar contenido — y se usa principalmente para almacenar código debido a otras características que proporciona.
@@ -1206,7 +1207,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
   Luego de ir a nuestro perfil se nos dará la opción de editar los siguientes campos:
   
-  <img width="44%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
+  <img width="24%" align="right" alt="edit profile" title="Edit Profile" src="./img/edit_profile.png" />
   
   - **Name**: Tu nombre completo o nombre profesional
   - **Bio**: Una descripción breve y atractiva sobre ti, quien eres y a que te dedicas (máximo 160 caracteres)
