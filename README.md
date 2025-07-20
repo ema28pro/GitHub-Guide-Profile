@@ -1198,11 +1198,6 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   
   ### Cómo crear tu README de perfil:
   
-  1. **Crea un repositorio** con el **mismo nombre** que tu usuario de GitHub
-  2. Marca el repositorio como **público**
-  3. Agrega un archivo **README.md**
-  4. ¡GitHub automáticamente lo mostrará en tu perfil!
-  
   ```mermaid
   flowchart LR
       A[Crear repo con tu username] --> B[Hacerlo público]
@@ -1295,7 +1290,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   
   1. **En la barra lateral izquierda** del editor, busca el ícono **+** 
   2. **Haz clic** en el **+** para agregar archivos
-  3. **Archivo nuevo creado** arriba podras ponerle nombre y la extension correspondiente para escribir en el nuevo archivo.
+  3. **Archivo nuevo creado**, arriba podras ponerle nombre y la extension correspondiente para escribir en el nuevo archivo.
   
   #### Método 2: Directamente en el repositorio
   
@@ -1314,12 +1309,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   > [!NOTE]
   > **Formatos recomendados**: Para imágenes usa PNG, JPG o SVG. GitHub soporta muchos formatos de archivo.
 
-  ---
-
-  > [!TIP]
-  > **Aprende de otros perfiles**: Visita perfiles de desarrolladores que admires. Puedes ver su README y archivos haciendo clic en el repositorio con su username. ¡Es la mejor forma de conseguir ideas creativas y aprender nuevas técnicas!
-
-  ## 🎨 Elementos que debe incluir tu README de perfil
+  ## 🎨 Elementos que debes incluir tu README de perfil
   
   ### 1. Saludo y presentación
   ```md
@@ -1388,6 +1378,12 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   - Información personal sensible en el código
   - Commits con mensajes poco descriptivos
   
+  > [!TIP]
+  > **Aprende de otros perfiles**: Visita perfiles de desarrolladores que admires. Puedes ver su README y archivos haciendo clic en el repositorio con su username. ¡Es la mejor forma de conseguir ideas creativas y aprender nuevas técnicas! 
+  
+  > Puedes visitar mi [README](https://github.com/ema28pro/ema28pro), ver como esta construido y tomar los elementos que te gusten. Podras encontrar [Badges](https://github.com/ema28pro/ema28pro/blob/main/misc/badgets.md), [Stats](https://github.com/ema28pro/ema28pro/blob/main/misc/stats.md), [ASCII art](https://github.com/ema28pro/ema28pro/blob/main/misc/ascii-art.md) y [inspiración](https://github.com/ema28pro/ema28pro/blob/main/Guia.md)
+
+
   ## 🎯 Ideas creativas para tu perfil
   
   ### 1. Widgets dinámicos
@@ -1444,6 +1440,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
   - [Emojis para GitHub](https://github.com/ikatyang/emoji-cheat-sheet) - Lista completa de emojis compatibles
   - [Lista de emojis completa](https://gist.github.com/rxaviers/7360908) - Gist con todos los emojis disponibles
   - [SVG Banners](https://github.com/Akshay090/svg-banners) - Banners SVG personalizados para tu perfil
+  - [Typing SVG](https://readme-typing-svg.demolab.com/demo/) -Gif de texto, [repo](https://github.com/DenverCoder1/readme-typing-svg).
   
   ### 💡 Inspiración y ejemplos:
   - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - Colección de perfiles increíbles
@@ -1499,9 +1496,9 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
 
 
-## 📚 Recursos para aprender Git y GitHub
+# 📚 Recursos para aprender Git y GitHub
 
-### 🎥 Videos recomendados
+## 🎥 Videos Utiles
 
 <table>
   <tr>
@@ -1515,7 +1512,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       <a href="https://www.youtube.com/watch?v=mBYSUUnMt9M">
         <img src="https://img.youtube.com/vi/mBYSUUnMt9M/0.jpg">
       </a>
-      <p><strong>freeCodeCamp Español</strong><br>Aprende Git y GitHub - Curso desde Cero</p>
+      <p><strong>freeCodeCamp Español</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>Aprende Git y GitHub - Curso desde Cero</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=9ZJ-K-zk_Go">
@@ -1529,19 +1526,19 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       <a href="https://www.youtube.com/watch?v=3GymExBkKjE">
         <img src="https://img.youtube.com/vi/3GymExBkKjE/0.jpg">
       </a>
-      <p><strong>MoureDev by Brais Moure</strong><br>Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES</p>
+      <p><strong>MoureDev by Brais Moure</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=niPExbK8lSw">
         <img src="https://img.youtube.com/vi/niPExbK8lSw/0.jpg">
       </a>
-      <p><strong>midulive</strong><br>Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos</p>
+      <p><strong>midulive</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=1eEnboVooiY">
         <img src="https://img.youtube.com/vi/1eEnboVooiY/0.jpg">
       </a>
-      <p><strong>midudev</strong><br>CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺<a href="https://midu.dev/como-crear-tu-perfil-de-github-con-readme">Blog</a></p>
+      <p><strong>midudev</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺<a href="https://midu.dev/como-crear-tu-perfil-de-github-con-readme">Blog</a></p>
     </td>
   </tr>
   <tr>
@@ -1549,13 +1546,13 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       <a href="https://youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW&si=yK6ctUuZXoNBtWHD">
         <img src="https://img.youtube.com/vi/mCVQgSyjCkI/0.jpg">
       </a>
-      <p><strong>TodoCode</strong><br>🤓 Curso GIT y GITHUB - Tutorial desde CERO 🚀 2025</p>
+      <p><strong>TodoCode</strong><br><span style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</span><br>🤓 Curso GIT y GITHUB - Tutorial desde CERO 🚀 2025</p>
     </td>
     <td  align="center">
       <a href="https://youtube.com/playlist?list=PLJ7sTTLrIA6klMtrvcpGXYkBFoUP3rqwo&si=3HmPJaEfYZu30lyo">
         <img src="https://img.youtube.com/vi/T3roQrB_Jko/0.jpg">
       </a>
-      <p><strong>de Nikorasu Def</strong><br>CURSO de GIT y GitHub (desde cero)</p>
+      <p><strong>de Nikorasu Def</strong><br><span style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</span><br>CURSO de GIT y GitHub (desde cero)</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=hwP7WQkmECE">
@@ -1634,9 +1631,10 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 | 🎯 **Plataforma** | 📝 **Descripción** | 🔗 **Enlace** |
 |:---|:---|:---:|
 | **GitHub Skills** | Cursos oficiales interactivos de GitHub | [🚀 Practicar](https://skills.github.com/) |
-| **Learn Git Branching** | Aprende Git de forma visual e interactiva | [🌿 Jugar](https://learngitbranching.js.org/?locale=es_AR) |
+| **Learn Git Branching** | Aprende Git de forma visual e interactiva | [🌿 Interactua](https://learngitbranching.js.org/?locale=es_AR) |
 | **Explain Git with D3** | Visualizador interactivo de comandos Git | [👁️ Explorar](https://onlywei.github.io/explain-git-with-d3/) |
 | **Git Immersion** | Tutorial paso a paso para dominar Git | [📚 Aprender](https://gitimmersion.com/) |
+| **Oh My Git** | Recomendado por [AkiraYumoto](https://github.com/AkiraYumoto) | [🎮 Jugar](https://ohmygit.org/) |
 
 </div>
 
