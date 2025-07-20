@@ -1526,19 +1526,19 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       <a href="https://www.youtube.com/watch?v=3GymExBkKjE">
         <img src="https://img.youtube.com/vi/3GymExBkKjE/0.jpg">
       </a>
-      <p><strong>MoureDev by Brais Moure</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES</p>
+      <p><strong>MoureDev by Brais Moure</strong><br><mark style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</mark><br>Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=niPExbK8lSw">
         <img src="https://img.youtube.com/vi/niPExbK8lSw/0.jpg">
       </a>
-      <p><strong>midulive</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos</p>
+      <p><strong>midulive</strong><br><mark style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</mark><br>Curso de GIT y GITHUB DESDE CERO Para Aportar a Proyectos</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=1eEnboVooiY">
         <img src="https://img.youtube.com/vi/1eEnboVooiY/0.jpg">
       </a>
-      <p><strong>midudev</strong><br><span style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</span><br>CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺<a href="https://midu.dev/como-crear-tu-perfil-de-github-con-readme">Blog</a></p>
+      <p><strong>midudev</strong><br><mark style="display:inline-block; background:#FFD700; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">RECOMENDADO</mark><br>CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺<a href="https://midu.dev/como-crear-tu-perfil-de-github-con-readme">Blog</a></p>
     </td>
   </tr>
   <tr>
@@ -1546,13 +1546,13 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
       <a href="https://youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW&si=yK6ctUuZXoNBtWHD">
         <img src="https://img.youtube.com/vi/mCVQgSyjCkI/0.jpg">
       </a>
-      <p><strong>TodoCode</strong><br><span style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</span><br>🤓 Curso GIT y GITHUB - Tutorial desde CERO 🚀 2025</p>
+      <p><strong>TodoCode</strong><br><mark style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</mark><br>🤓 Curso GIT y GITHUB - Tutorial desde CERO 🚀 2025</p>
     </td>
     <td  align="center">
       <a href="https://youtube.com/playlist?list=PLJ7sTTLrIA6klMtrvcpGXYkBFoUP3rqwo&si=3HmPJaEfYZu30lyo">
         <img src="https://img.youtube.com/vi/T3roQrB_Jko/0.jpg">
       </a>
-      <p><strong>de Nikorasu Def</strong><br><span style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</span><br>CURSO de GIT y GitHub (desde cero)</p>
+      <p><strong>de Nikorasu Def</strong><br><mark style="display:inline-block; background:#3da0c2; color:#222; font-weight:bold; border-radius:6px; padding:2px 10px; margin:6px 0; font-size:14px;">PLAYLIST</mark><br>CURSO de GIT y GitHub (desde cero)</p>
     </td>
     <td  align="center">
       <a href="https://www.youtube.com/watch?v=hwP7WQkmECE">
