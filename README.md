@@ -1542,6 +1542,26 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
     </td>
   </tr>
   <tr>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=wk8pgNZRs-I">
+        <img src="https://img.youtube.com/vi/wk8pgNZRs-I/0.jpg">
+      </a>
+      <p><strong>FaztTech</strong><br>¿Que es Git?</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=MqAW83e95wU">
+        <img src="https://img.youtube.com/vi/MqAW83e95wU/0.jpg">
+      </a>
+      <p><strong>FaztTech</strong><br>¿Por qué Git Fue inventado?</p>
+    </td>
+    <td  align="center">
+      <a href="https://www.youtube.com/watch?v=HiXLkL42tMU">
+        <img src="https://img.youtube.com/vi/HiXLkL42tMU/0.jpg">
+      </a>
+      <p><strong>FaztTech</strong><br>Git y Github | Curso Práctico de Git y Github Desde Cero</p>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW&si=yK6ctUuZXoNBtWHD">
         <img src="https://img.youtube.com/vi/mCVQgSyjCkI/0.jpg">
@@ -1635,6 +1655,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 | **Explain Git with D3** | Visualizador interactivo de comandos Git | [👁️ Explorar](https://onlywei.github.io/explain-git-with-d3/) |
 | **Git Immersion** | Tutorial paso a paso para dominar Git | [📚 Aprender](https://gitimmersion.com/) |
 | **Oh My Git** | Recomendado por [AkiraYumoto](https://github.com/AkiraYumoto) | [🎮 Jugar](https://ohmygit.org/) |
+| **Git by example** | Aprende Git con ejemplos prácticos | [🚀 Descubrir](https://antonz.org/git-by-example/) |
 
 </div>
 
