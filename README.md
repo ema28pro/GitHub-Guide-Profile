@@ -1650,7 +1650,7 @@ GitHub soporta diagramas Mermaid para crear flujogramas, diagramas de secuencia 
 
 | 🎯 **Plataforma** | 📝 **Descripción** | 🔗 **Enlace** |
 |:---|:---|:---:|
-| **GitHub Skills** | Cursos oficiales interactivos de GitHub | [🚀 Practicar](https://skills.github.com/) |
+| **GitHub Skills** | Cursos oficiales interactivos de GitHub | [💪 Practicar](https://skills.github.com/) |
 | **Learn Git Branching** | Aprende Git de forma visual e interactiva | [🌿 Interactua](https://learngitbranching.js.org/?locale=es_AR) |
 | **Explain Git with D3** | Visualizador interactivo de comandos Git | [👁️ Explorar](https://onlywei.github.io/explain-git-with-d3/) |
 | **Git Immersion** | Tutorial paso a paso para dominar Git | [📚 Aprender](https://gitimmersion.com/) |
