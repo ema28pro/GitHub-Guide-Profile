@@ -117,6 +117,7 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 
 <table width="100%" border="0">
 <tr>
+</tr>
 <td valign="top" width="33%">
 
 - 👤 [**simonw**](https://github.com/simonw)
@@ -147,7 +148,6 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 - 👤 [**ema28pro**](https://github.com/ema28pro)
 
 </td>
-</tr>
 </table>
 
 
