@@ -115,19 +115,19 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 
 ### C. Más Perfiles Recomendados por la Comunidad
 
-<table border="0">
-  <tr>
-    <td valign="top" width="33%">
+<table width="100%" border="0">
+<tr>
+<td valign="top" width="33%">
 
-- 👤 [**simonw**](https://github.com/simonw)  
-- 👤 [**matyo91**](https://github.com/matyo91)  
-- 👤 [**fnky**](https://github.com/fnky)  
-- 👤 [**BrunnerLivio**](https://github.com/BrunnerLivio)  
-- 👤 [**sindresorhus**](https://github.com/sindresorhus)  
-- 👤 [**notKimu**](https://github.com/notKimu)  
+- 👤 [**simonw**](https://github.com/simonw)
+- 👤 [**matyo91**](https://github.com/matyo91)
+- 👤 [**fnky**](https://github.com/fnky)
+- 👤 [**BrunnerLivio**](https://github.com/BrunnerLivio)
+- 👤 [**sindresorhus**](https://github.com/sindresorhus)
+- 👤 [**notKimu**](https://github.com/notKimu)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="34%">
 
 - 👤 [**sammwyy**](https://github.com/sammwyy)
 - 👤 [**edulazaro**](https://github.com/edulazaro)
