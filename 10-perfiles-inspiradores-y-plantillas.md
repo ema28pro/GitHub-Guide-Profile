@@ -119,15 +119,15 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
   <tr>
     <td valign="top" width="33%">
 
-- 👤 [**simonw**](https://github.com/simonw)
-- 👤 [**matyo91**](https://github.com/matyo91)
-- 👤 [**fnky**](https://github.com/fnky)
-- 👤 [**BrunnerLivio**](https://github.com/BrunnerLivio)
-- 👤 [**sindresorhus**](https://github.com/sindresorhus)
-- 👤 [**notKimu**](https://github.com/notKimu)
+- 👤 [**simonw**](https://github.com/simonw)  
+- 👤 [**matyo91**](https://github.com/matyo91)  
+- 👤 [**fnky**](https://github.com/fnky)  
+- 👤 [**BrunnerLivio**](https://github.com/BrunnerLivio)  
+- 👤 [**sindresorhus**](https://github.com/sindresorhus)  
+- 👤 [**notKimu**](https://github.com/notKimu)  
 
-    </td>
-    <td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 - 👤 [**sammwyy**](https://github.com/sammwyy)
 - 👤 [**edulazaro**](https://github.com/edulazaro)
@@ -136,8 +136,8 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 - 👤 [**LaDuquesaDev**](https://github.com/LaDuquesaDev)
 - 👤 [**erikgiovani**](https://github.com/erikgiovani)
 
-    </td>
-    <td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 - 👤 [**alexandresanlim**](https://github.com/alexandresanlim)
 - 👤 [**kevin-dev71**](https://github.com/kevin-dev71)
@@ -146,8 +146,8 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 - 👤 [**jlengstorf**](https://github.com/jlengstorf)
 - 👤 [**ema28pro**](https://github.com/ema28pro)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 
