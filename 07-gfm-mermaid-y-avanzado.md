@@ -182,10 +182,11 @@ Para documentar atajos de teclado o combinaciones de teclas con un aspecto profe
     <th width="50%">Renderizado Visual</th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
 
 ```markdown
-Presiona <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> para abrir la paleta de comandos en VS Code.
+Presiona <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
+para abrir la paleta de comandos en VS Code.
 
 En macOS, usa <kbd>Cmd</kbd> + <kbd>Space</kbd> para abrir Spotlight.
 
@@ -193,7 +194,7 @@ Para guardar cambios: <kbd>Ctrl</kbd> + <kbd>S</kbd>.
 ```
 
 </td>
-<td>
+<td width="50%">
 
 Presiona <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> para abrir la paleta de comandos en VS Code.  
 
