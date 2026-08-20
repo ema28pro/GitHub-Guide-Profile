@@ -117,6 +117,7 @@ Permite ocultar explicaciones largas, soluciones o registros para mantener la p�
     <td>
 
 ```html
+<!-- 1. Desplegable Cerrado por Defecto -->
 <details>
 <summary><strong>🔍 Haz clic aquí para ver la respuesta</strong></summary>
 
@@ -130,11 +131,19 @@ Este contenido permanece oculto hasta que el lector interactúa con el botón.
 - E imágenes o tablas.
 
 </details>
+
+<!-- 2. Desplegable Abierto por Defecto (con atributo 'open') -->
+<details open>
+<summary><strong>📂 Desplegable Abierto por Defecto</strong></summary>
+
+Este contenido se muestra visible inmediatamente cuando carga la página, pero el usuario puede contraerlo haciendo clic en el título.
+</details>
 ```
 
 </td>
 <td>
 
+<!-- 1. Desplegable Cerrado por Defecto -->
 <details>
 <summary><strong>🔍 Haz clic aquí para ver la respuesta</strong></summary>
 
@@ -147,6 +156,15 @@ Este contenido permanece oculto hasta que el lector interactúa con el botón.
   ```
 - E imágenes o tablas.
 
+</details>
+
+<br/>
+
+<!-- 2. Desplegable Abierto por Defecto -->
+<details open>
+<summary><strong>📂 Desplegable Abierto por Defecto</strong></summary>
+
+Este contenido se muestra visible inmediatamente cuando carga la página, pero el usuario puede contraerlo haciendo clic en el título.
 </details>
 
 </td>
