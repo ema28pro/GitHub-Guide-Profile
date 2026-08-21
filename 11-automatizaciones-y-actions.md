@@ -66,21 +66,24 @@ flowchart TD
 ### B. Ciclo de Vida CI/CD (Continuous Integration & Continuous Deployment)
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph CI ["🔵 CI (Continuous Integration)"]
-        A[1. Code & Commit] --> B[2. Build Automático]
-        B --> C[3. Test Unitarios & E2E]
-        C --> D[4. Linter & Análisis de Seguridad]
+        direction TB
+        A["1. Code & Commit"] --> B["2. Build Automático"]
+        B --> C["3. Test Unitarios & E2E"]
+        C --> D["4. Linter & Análisis de Seguridad"]
     end
 
     subgraph CD ["🟢 CD (Continuous Delivery / Deployment)"]
-        D --> E[5. Empaquetado / Docker Container]
-        E --> F[6. Despliegue en Staging / Pruebas]
-        F --> G[7. Despliegue en Producción 🚀]
+        direction TB
+        E["5. Empaquetado / Docker Container"] --> F["6. Despliegue en Staging / Pruebas"]
+        F --> G["7. Despliegue en Producción 🚀"]
     end
 
-    style CI fill:#1f6feb,stroke:#388bfd,stroke-width:2px,color:#fff
-    style CD fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff
+    D --> E
+
+    style CI fill:#1f6feb15,stroke:#1f6feb,stroke-width:2px
+    style CD fill:#23863615,stroke:#238636,stroke-width:2px
 ```
 
 1. **Integración Continua (CI)**: Fusionar cambios frecuentemente con validación automática (pruebas unitarias, análisis estático de código y builds).
