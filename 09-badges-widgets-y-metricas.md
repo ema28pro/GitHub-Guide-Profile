@@ -203,10 +203,9 @@ Permiten mostrar tus seguidores de GitHub y la comunidad de tus proyectos con el
 
 El proyecto [**svg-banners**](https://github.com/Akshay090/svg-banners) de Akshay Sharma genera banners vectoriales animados y estilizados para el encabezado de tu perfil:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -223,24 +222,28 @@ El proyecto [**svg-banners**](https://github.com/Akshay090/svg-banners) de Aksha
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Desarrollador%20Full%20Stack%20🚀&text2=Construyendo%20software%20con%20pasión&width=800&height=180" width="100%" alt="Header Banner" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### B. Cabeceras con Olas y Degradados ([Capsule Render](https://github.com/kyechan99/capsule-render))
 
 Permite crear cabeceras o pies de página con formas geométricas, ondas (*waving*), degradados automáticos y animaciones de entrada:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -257,14 +260,19 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=¡Hola,%20bienvenido!%20👋&fontSize=38&animation=fadeIn" width="100%" alt="Capsule Header" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 
@@ -519,10 +527,9 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 
 ### A. Tarjeta de Estadísticas Generales (GitHub Stats Card)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -540,14 +547,19 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ema28pro&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### B. Lenguajes Más Usados (Top Languages Card)
@@ -591,10 +603,9 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 
 ### C. Awesome GitHub Stats (Tarjeta Ilustrada Octocat)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -606,22 +617,26 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ema28pro?cardType=octocat&preferLogin=true" alt="Awesome GitHub Stats" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### D. Gráfico de Actividad Anual (Activity Graph)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -633,22 +648,26 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ema28pro&theme=lucent&area=true&hide_border=true&hide_title=false&bg_color=0d1117&color=30a14e&line=10aa50&area_color=9be9a8" width="100%" alt="Activity Graph" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### E. Racha de Contribuciones (GitHub Streak Stats - Servidor Demolab)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -660,22 +679,26 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ema28pro&locale=es&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### F. Frases de Programación Aleatorias (Quotes Card)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -687,22 +710,26 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### G. Efecto de Texto Escribiéndose (Readme Typing SVG)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -716,7 +743,12 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -725,7 +757,7 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 
@@ -733,10 +765,9 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 
 Muestra trofeos dinámicos en formato medalla (oro, plata, bronce) clasificados por tus logros en GitHub (estrellas, commits, pull requests, issues, seguidores y repositorios):
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -753,24 +784,28 @@ Muestra trofeos dinámicos en formato medalla (oro, plata, bronce) clasificados 
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ema28pro&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### I. Estadísticas de LeetCode ([LeetCode Stats Card](https://github.com/JacobLinCool/LeetCode-Stats-Card))
 
 Ideal si resuelves retos de algoritmia y estructuras de datos. Muestra los problemas resueltos divididos por dificultad (*Easy*, *Medium*, *Hard*) y tu ranking global:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -788,24 +823,28 @@ Ideal si resuelves retos de algoritmia y estructuras de datos. Muestra los probl
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ema28pro?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### J. Música y Artistas en Spotify ([Spotify Recently Played](https://github.com/kittinan/spotify-github-profile))
 
 Permite mostrar en tu perfil la canción que estás escuchando en tiempo real o tus pistas más reproducidas en Spotify:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -823,7 +862,12 @@ Permite mostrar en tu perfil la canción que estás escuchando en tiempo real o 
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <a href="https://open.spotify.com">
@@ -832,20 +876,19 @@ Permite mostrar en tu perfil la canción que estás escuchando en tiempo real o 
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### K. Gráfico de Contribuciones en 3D ([GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib))
 
 Genera una visualización isométrica en tres dimensiones de tu calendario de contribuciones:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML / Integración</th>
-    <th width="50%">Renderizado Visual</th>
-</tr>
-<tr>
-  <td>
+    <th>Código HTML / Integración</th>
+  </tr>
+  <tr>
+    <td>
 
 ```html
 <div align="center">
@@ -859,24 +902,28 @@ Genera una visualización isométrica en tres dimensiones de tu calendario de co
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="100%" alt="GitHub 3D Contrib Demo" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### L. Métricas de Tiempo de Programación con WakaTime
 
 Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de código (VS Code, JetBrains, etc.), puedes mostrar cuánto tiempo pasas programando en cada lenguaje:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -888,14 +935,19 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=ema28pro&theme=dark&hide_border=true&langs_count=6" alt="WakaTime Stats" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 
@@ -903,10 +955,9 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 
 ### A. Tarjetas Dinámicas de Repositorios (Repo Cards)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -920,7 +971,12 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <a href="https://github.com/ema28pro/GitHub-Guide-Profile">
@@ -929,7 +985,7 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### B. Tarjetas para un Gist Individual (Gist Pin Card)
@@ -974,10 +1030,9 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 
 ### C. Tarjeta de Estadísticas Generales de Gists ([Gists Readme de Yizack](https://github.com/yizack/gists-readme))
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -989,14 +1044,19 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://gists-readme.yizack.com/api?user=ema28pro&theme=tokyonight" alt="Gists Stats" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 > [!TIP]
