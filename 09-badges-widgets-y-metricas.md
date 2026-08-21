@@ -48,13 +48,12 @@ Los badges, banners y widgets interactivos transforman un `README.md` plano en u
 
 Permiten registrar y mostrar el número de personas que han visitado tu perfil o un repositorio específico:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código Markdown / HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código Markdown / HTML</th>
   </tr>
   <tr>
-  <td>
+    <td>
 
 ```markdown
 <!-- Opción 1: Komarev Profile Views Counter -->
@@ -74,7 +73,12 @@ Permiten registrar y mostrar el número de personas que han visitado tu perfil o
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 ![](https://komarev.com/ghpvc/?username=ema28pro&label=Profile%20views&color=0e75b6&style=flat)  
 
@@ -95,20 +99,19 @@ Permiten registrar y mostrar el número de personas que han visitado tu perfil o
 ![](https://profile-counter.glitch.me/ema28pro/count.svg)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### B. Contadores de Estrellas de Repositorios (Star Counters)
 
 Muestran en tiempo real la cantidad de estrellas (*stars*) que tiene un repositorio en GitHub:
 
-<table border="0">
-<tr>
-<th width="50%">Código Markdown</th>
-<th width="50%">Renderizado Visual</th>
-</tr>
-<tr>
-<td>
+<table border="0" width="100%">
+  <tr>
+    <th>Código Markdown</th>
+  </tr>
+  <tr>
+    <td>
 
 ```markdown
 <!-- Opción 1: Badge Flat con Logo de GitHub -->
@@ -124,7 +127,12 @@ Muestran en tiempo real la cantidad de estrellas (*stars*) que tiene un reposito
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/ema28pro/GitHub-Guide-Profile?style=flat&logo=github&color=gold)](https://github.com/ema28pro/GitHub-Guide-Profile)  
 
@@ -136,19 +144,21 @@ Muestran en tiempo real la cantidad de estrellas (*stars*) que tiene un reposito
 
 [![Forks](https://img.shields.io/github/forks/ema28pro/GitHub-Guide-Profile?style=flat&logo=github&color=blue)](https://github.com/ema28pro/GitHub-Guide-Profile)  
 
+<br/>
+
 [![License](https://img.shields.io/github/license/ema28pro/GitHub-Guide-Profile?style=flat&color=green)](https://github.com/ema28pro/GitHub-Guide-Profile)
+
 </td>
-</tr>
+  </tr>
 </table>
 
 ### C. Contadores de Seguidores y Métricas Sociales (Social Badges)
 
 Permiten mostrar tus seguidores de GitHub y la comunidad de tus proyectos con el estilo oficial de botón social:
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código Markdown</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código Markdown</th>
   </tr>
   <tr>
     <td>
@@ -165,7 +175,12 @@ Permiten mostrar tus seguidores de GitHub y la comunidad de tus proyectos con el
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/ema28pro?style=social)](https://github.com/ema28pro?tab=followers)  
 
@@ -178,7 +193,7 @@ Permiten mostrar tus seguidores de GitHub y la comunidad de tus proyectos con el
 [![GitHub Forks](https://img.shields.io/github/forks/ema28pro/GitHub-Guide-Profile?style=social)](https://github.com/ema28pro/GitHub-Guide-Profile/network/members)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 
@@ -257,10 +272,9 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 
 ### A. Skill Icons (Fila Combinada y con Enlaces Clicables)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código Markdown / HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código Markdown / HTML</th>
   </tr>
   <tr>
     <td>
@@ -280,9 +294,14 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,fastapi,mysql,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
@@ -293,15 +312,14 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")](https://tailwindcss.com/)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### B. Shields.io (Insignias Personalizadas por Categoría)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código Markdown</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código Markdown</th>
   </tr>
   <tr>
     <td>
@@ -327,7 +345,12 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -349,7 +372,7 @@ Permite crear cabeceras o pies de página con formas geométricas, ondas (*wavin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### C. Personalización Avanzada de Badges en Shields.io (Logos, Textos y Colores)
@@ -365,10 +388,9 @@ https://img.shields.io/badge/<ETIQUETA>-<MENSAJE>-<COLOR>?logo=<LOGO>&logoColor=
 - **Logos soportados**: Más de 3,000 marcas y tecnologías disponibles en `logo=nombre_tecnologia`.
 - **Colores**: Nombres (`blue`, `red`, `brightgreen`, `orange`, `yellow`) o códigos HEX de 6 dígitos (ej. `2ea043`, `1f6feb`, `5865F2`).
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código Markdown</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código Markdown</th>
   </tr>
   <tr>
     <td>
@@ -394,22 +416,37 @@ https://img.shields.io/badge/<ETIQUETA>-<MENSAJE>-<COLOR>?logo=<LOGO>&logoColor=
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 ![Rol](https://img.shields.io/badge/Rol-Full_Stack_Developer-1f6feb?style=flat&logo=react&logoColor=white)  
 
+<br/>
+
 ![Estado](https://img.shields.io/badge/Estado-Open_to_Work-2ea043?style=flat&logo=githubsponsors&logoColor=white)  
+
+<br/>
 
 ![Experiencia](https://img.shields.io/badge/Experiencia-3+_Años-orange?style=flat&logo=codeforces&logoColor=white)  
 
+<br/>
+
 ![Discord](https://img.shields.io/badge/Discord-Unirse_al_Servidor-5865F2?style=flat&logo=discord&logoColor=white)  
 
-![AoC](https://img.shields.io/badge/AoC_2024-50_⭐-yellow?style=flat&logo=adventofcode&logoColor=red)
+<br/>
+
+![AoC](https://img.shields.io/badge/AoC_2024-50_⭐-yellow?style=flat&logo=adventofcode&logoColor=red)  
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### D. Principales Proveedores de Iconos para Tecnologías
@@ -422,10 +459,9 @@ Existen diversos servicios y CDNs especializados en proveer iconos vectoriales y
 4. ✨ **[Tech Stack Generator (Iconos Animados)](https://techstack-generator.vercel.app/)**: Generador interactivo que añade animaciones fluidas (rebote, rotación, flotación) a los iconos de tu stack.
 5. 📱 **[Icons8](https://icons8.com/)**: Ideal para iconos ilustrados (estilo doodle o 3D) para redes sociales y plataformas de contacto.
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML</th>
   </tr>
   <tr>
     <td>
@@ -446,7 +482,12 @@ Existen diversos servicios y CDNs especializados en proveer iconos vectoriales y
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <a href="https://react.dev/"><img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/></a>&nbsp;&nbsp;
@@ -463,7 +504,7 @@ Existen diversos servicios y CDNs especializados en proveer iconos vectoriales y
 <a href="https://github.com"><img alt="GitHub" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### E. Catálogo Masivo de Badges ([Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic))
@@ -511,13 +552,12 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 
 ### B. Lenguajes Más Usados (Top Languages Card)
 
-<table border="0">
-<tr>
-<th width="50%">Código HTML</th>
-<th width="50%">Renderizado Visual</th>
-</tr>
-<tr>
-<td>
+<table border="0" width="100%">
+  <tr>
+    <th>Código HTML</th>
+  </tr>
+  <tr>
+    <td>
 
 ```html
 <!-- Formato Compacto -->
@@ -532,16 +572,21 @@ El repositorio [**Badges4-README.md-Profile-Dynamic**](https://github.com/alexan
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ema28pro&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages Compact" />
-  <br/>
+  <br/><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ema28pro&layout=donut&theme=dark&hide_border=true" height="180" alt="Top Languages Donut" />
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### C. Awesome GitHub Stats (Tarjeta Ilustrada Octocat)
@@ -889,10 +934,9 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 
 ### B. Tarjetas para un Gist Individual (Gist Pin Card)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <th width="50%">Código HTML / Markdown</th>
-    <th width="50%">Renderizado Visual</th>
+    <th>Código HTML / Markdown</th>
   </tr>
   <tr>
     <td>
@@ -911,7 +955,12 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 ```
 
 </td>
-<td>
+  </tr>
+  <tr>
+    <th>Renderizado Visual</th>
+  </tr>
+  <tr>
+    <td align="center">
 
 <div align="center">
   <a href="https://gist.github.com/ema28pro/ce5edfeecba5559d13a9ddbe7b3513ec">
@@ -920,7 +969,7 @@ Si utilizas la extensión [WakaTime](https://wakatime.com/) en tu editor de cód
 </div>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ### C. Tarjeta de Estadísticas Generales de Gists ([Gists Readme de Yizack](https://github.com/yizack/gists-readme))
