@@ -120,32 +120,32 @@ Llevan GitHub al límite utilizando acciones para jugar o interactuar en tiempo 
 </tr>
 <td valign="top" width="33%">
 
-- 👤 [**simonw**](https://github.com/simonw)
-- 👤 [**matyo91**](https://github.com/matyo91)
-- 👤 [**fnky**](https://github.com/fnky)
-- 👤 [**BrunnerLivio**](https://github.com/BrunnerLivio)
-- 👤 [**sindresorhus**](https://github.com/sindresorhus)
-- 👤 [**notKimu**](https://github.com/notKimu)
+- [**simonw**](https://github.com/simonw)
+- [**matyo91**](https://github.com/matyo91)
+- [**fnky**](https://github.com/fnky)
+- [**BrunnerLivio**](https://github.com/BrunnerLivio)
+- [**sindresorhus**](https://github.com/sindresorhus)
+- [**notKimu**](https://github.com/notKimu)
 
 </td>
 <td valign="top" width="34%">
 
-- 👤 [**sammwyy**](https://github.com/sammwyy)
-- 👤 [**edulazaro**](https://github.com/edulazaro)
-- 👤 [**Svetlozarko**](https://github.com/Svetlozarko)
-- 👤 [**CrawKatt**](https://github.com/CrawKatt)
-- 👤 [**LaDuquesaDev**](https://github.com/LaDuquesaDev)
-- 👤 [**erikgiovani**](https://github.com/erikgiovani)
+- [**sammwyy**](https://github.com/sammwyy)
+- [**edulazaro**](https://github.com/edulazaro)
+- [**Svetlozarko**](https://github.com/Svetlozarko)
+- [**CrawKatt**](https://github.com/CrawKatt)
+- [**LaDuquesaDev**](https://github.com/LaDuquesaDev)
+- [**erikgiovani**](https://github.com/erikgiovani)
 
 </td>
 <td valign="top" width="33%">
 
-- 👤 [**alexandresanlim**](https://github.com/alexandresanlim)
-- 👤 [**kevin-dev71**](https://github.com/kevin-dev71)
-- 👤 [**AVIVASHISHTA29**](https://github.com/AVIVASHISHTA29)
-- 👤 [**carlosazaustre**](https://github.com/carlosazaustre)
-- 👤 [**jlengstorf**](https://github.com/jlengstorf)
-- 👤 [**ema28pro**](https://github.com/ema28pro)
+- [**alexandresanlim**](https://github.com/alexandresanlim)
+- [**kevin-dev71**](https://github.com/kevin-dev71)
+- [**AVIVASHISHTA29**](https://github.com/AVIVASHISHTA29)
+- [**carlosazaustre**](https://github.com/carlosazaustre)
+- [**jlengstorf**](https://github.com/jlengstorf)
+- [**ema28pro**](https://github.com/ema28pro)
 
 </td>
 </table>
